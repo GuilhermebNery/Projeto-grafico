@@ -1,0 +1,25 @@
+dir - (Lista os diretórios da raiz)
+cd ~ - Volta para a pasta raiz
+cd .. -Volta um diretório
+
+
+-----------------
+Remover diretórios
+ rmdir teste
+rm -d teste
+
+(ambos possuem mesmo comportamento)
+
+Comando para criação
+mkdir blabla- Cria uma pasta blabla
+touch blabla.txt- Cria arquivos do formato pós o ponto
+
+
+
+
+
+
+
+Edição de arquivos
+$ mv ~/documents/teste/index.html/teste.txt ~/documents/teste
+(este comando move o arquivo teste.txt para a pasta teste)
